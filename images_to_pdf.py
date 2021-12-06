@@ -1,5 +1,7 @@
 '''
 If you don't want to upload images on web but want to combine them into a PDF, you can simply use Pillow(PIL) library.
+
+Credit for this code - https://stackoverflow.com/a/47283224/2126357
 '''
 from PIL import Image
 
