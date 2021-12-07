@@ -21,3 +21,4 @@ Original solution - https://stackoverflow.com/a/39574231/2126357
 - [Removing files from a folder](https://github.com/amitamola/shared_code_snippets/blob/main/miscellaneous/file_remover.py)
 - [Screen commands for unix/linux/ubuntu](https://github.com/amitamola/shared_code_snippets/blob/main/miscellaneous/screen_commands.md)
 - [Various other commands for unix/linux/ubuntu](https://github.com/amitamola/shared_code_snippets/blob/main/miscellaneous/unix_commands.md)
+- [Some helpful git commands](https://github.com/amitamola/shared_code_snippets/blob/main/miscellaneous/git_commands.md)
