@@ -18,5 +18,6 @@ Original solution - https://stackoverflow.com/a/39574231/2126357
 ********************************************************************************
 #### Here are some miscellaneous scripts for varying stuff that we use every now or then:
 - [Copying files from one folder to another](https://github.com/amitamola/shared_code_snippets/blob/main/miscellaneous/file_copier.py)
-
 - [Removing files from a folder](https://github.com/amitamola/shared_code_snippets/blob/main/miscellaneous/file_remover.py)
+- [Screen commands for unix/linux/ubuntu](https://github.com/amitamola/shared_code_snippets/blob/main/miscellaneous/screen_commands.md)
+- [Various other commands for unix/linux/ubuntu](https://github.com/amitamola/shared_code_snippets/blob/main/miscellaneous/unix_commands.md)
