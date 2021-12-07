@@ -3,8 +3,8 @@
 In this repository I'll be sharing the codes that I share around on LinkedIn or 
 Medium etc and to provide it for further use by others(and maybe for myself).
 
-So if you feel any such thing can be of help, please do add too this repo and 
-raise a pull request.
+So if you feel any such thing can be of help and want to contribute, please do 
+add too this repo and raise a pull request.
 
 #### Click on the links below to directly open the code snippet:
 
