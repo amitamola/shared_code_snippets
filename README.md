@@ -14,4 +14,7 @@ Original solution - https://stackoverflow.com/a/47283224/2126357
 ### 2. [Delete/Select only specific pages in a PDF and create a new one](https://github.com/amitamola/shared_code_snippets/blob/main/select_page_pdf_creator.py)
 Original solution - https://stackoverflow.com/a/39574231/2126357
 
-### 3. [Copy files from one folder to another](https://github.com/amitamola/shared_code_snippets/blob/main/file_copier.py)
+
+********************************************************************************
+#### Here are some miscellaneous scripts for varying stuff that we use every now or then:
+- [Copying files from one folder to another](https://github.com/amitamola/shared_code_snippets/blob/main/miscellaneous/file_copier.py)
