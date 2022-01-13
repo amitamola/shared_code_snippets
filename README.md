@@ -14,6 +14,9 @@ Original solution - https://stackoverflow.com/a/47283224/2126357
 ### 2. [Delete/Select only specific pages in a PDF and create a new one](https://github.com/amitamola/shared_code_snippets/blob/main/select_page_pdf_creator.py)
 Original solution - https://stackoverflow.com/a/39574231/2126357
 
+### 3. [Merge multiple PDFs into one](https://github.com/amitamola/shared_code_snippets/blob/main/pdf_merger.py)
+Original solution - https://stackoverflow.com/a/37945454/2126357
+
 
 ********************************************************************************
 #### Here are some miscellaneous scripts for varying stuff that we use every now or then:
