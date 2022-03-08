@@ -25,6 +25,7 @@ Original solution - https://stackoverflow.com/a/37945454/2126357
 - [Screen commands for unix/linux/ubuntu](https://github.com/amitamola/shared_code_snippets/blob/main/miscellaneous/screen_commands.md)
 - [Various other commands for unix/linux/ubuntu](https://github.com/amitamola/shared_code_snippets/blob/main/miscellaneous/unix_commands.md)
 - [Some helpful git commands](https://github.com/amitamola/shared_code_snippets/blob/main/miscellaneous/git_commands.md)
+- [Code create a CSV with package, their version and their license](https://github.com/amitamola/shared_code_snippets/blob/main/miscellaneous/package_license_creator.py)
 
 ********************************************************************************
 #### Pandas
